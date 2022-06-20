@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lurongjiang.syslogsender.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lurongjiang.syslogsender.MyBundle
 
 class MyApplicationService {
 
